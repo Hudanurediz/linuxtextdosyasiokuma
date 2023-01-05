@@ -1,6 +1,6 @@
 # linux text dosyasi okuma
 
-İlk olarak arayüz yardımı ilr kullanıcıya bir dosya seçtirilir.
+İlk olarak arayüz yardımı ile kullanıcıya bir dosya seçtirilir.
 
 Ardından yine arayüz kullanılarak ile görüntülenmek istenen satır aralığının başlangıç ve bitiş değerleri alınır.
 
